@@ -3,27 +3,63 @@ from matrix import *
 from math import *
 
 def add_polygon( points, x0, y0, z0, x1, y1, z1, x2, y2, z2 ):
-    pass
+    add_point(points, x0, y0, z0)
+    add_point(points, x1, y1, z1)
+    add_point(points, x2, y2, z2)
+            
 
 def draw_polygons( points, screen, color ):
-    pass
+    point = 0
+    while point < len(points) - 1:
+        
+        draw_line( int(points[point][0]), int(points[point][1]), int(points[point+1][0]), int(points[point+1][1]), screen, color)
+        
+        draw_line( int(points[point+1][0]), int(points[point+1][1]), int(points[point+2][0]), int(points[point+2][1]), screen, color)
+        
+        draw_line( int(points[point+2][0]), int(points[point+2][1]), int(points[point][0]), int(points[point][1]), screen, color)
+        
+        point += 3
 
 def add_box( points, x, y, z, width, height, depth ):
     x1 = x + width
     y1 = y - height
     z1 = z - depth
 
+    #left-front
+    add_polygon(points, x1, y, z, x, y, z, x, y1, z)
+    add_polygon(points, x1, y, z, x, y1, z, x1, y1, z)
+
+    #right-back
+    add_polygon(points, x1, y, z1, x, y1, z1, x, y, z1)
+    add_polygon(points, x1, y, z1, x1, y1, z1, x, y1, z1)
+
+    #top
+    add_polygon(points, x1, y, z1, x, y, z1, x, y, z)
+    add_polygon(points, x, y, z, x1, y, z1, x1, y, z)
+
+    #bottom
+    add_polygon(points, x1, y1, z1, x1, y1, z, x, y1, z)
+    add_polygon(points, x1, y1, z1, x, y1, z, x, y1, z1)
+
+    #right-front
+    add_polygon(points, x, y, z, x, y, z1, x, y1, z1)
+    add_polygon(points, x, y, z, x, y1, z1, x, y1, z)
+
+    #left-back
+    add_polygon(points, x1, y, z1, x1, y, z, x1, y1, z1)
+    add_polygon(points, x1, y, z, x1, y1, z, x1, y1, z1)
+    
     #front
-    add_edge(points, x, y, z, x+2, y+2, z+2)
-    add_edge(points, x, y1, z, x+2, y1+2, z+2)
-    add_edge(points, x1, y, z, x1+2, y+2, z+2)
-    add_edge(points, x1, y1, z, x1+2, y1+2, z+2)
+    # add_edge(points, x, y, z, x+2, y+2, z+2)
+    # add_edge(points, x, y1, z, x+2, y1+2, z+2)
+    # add_edge(points, x1, y, z, x1+2, y+2, z+2)
+    # add_edge(points, x1, y1, z, x1+2, y1+2, z+2)
 
     #back
-    add_edge(points, x, y, z1, x+2, y+2, z1+2)
-    add_edge(points, x, y1, z1, x+2, y1+2, z1+2)
-    add_edge(points, x1, y, z1, x1+2, y+2, z1+2)
-    add_edge(points, x1, y1, z1, x1+2, y1+2, z1+2)
+    # add_edge(points, x, y, z1, x+2, y+2, z1+2)
+    # add_edge(points, x, y1, z1, x+2, y1+2, z1+2)
+    # add_edge(points, x1, y, z1, x1+2, y+2, z1+2)
+    # add_edge(points, x1, y1, z1, x1+2, y1+2, z1+2)
 
 def add_sphere( edges, cx, cy, cz, r, step ):
     points = generate_sphere(cx, cy, cz, r, step)
