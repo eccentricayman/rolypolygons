@@ -52,7 +52,7 @@ def parse_file( fname, edges, transform, screen, color ):
     f = open(fname)
     lines = f.readlines()
 
-    step = 0.01
+    step = 0.1
     c = 0
     while c < len(lines):
         line = lines[c].strip()
@@ -136,7 +136,7 @@ def parse_file( fname, edges, transform, screen, color ):
 
         elif line == 'display' or line == 'save':
             clear_screen(screen)
-            draw_lines(edges, screen, color)
+            draw_polygons(edges, screen, color)
 
             if line == 'display':
                 display(screen)
