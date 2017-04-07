@@ -128,7 +128,7 @@ def add_torus( edges, cx, cy, cz, r0, r1, step ):
     longt_stop = num_steps
     
     for lat in range(lat_start, lat_stop):
-        for longt in range(longt_start, longt_stop - 1):
+        for longt in range(longt_start, longt_stop):
             index = lat * num_steps + longt
             
             add_polygon( edges,
@@ -137,15 +137,27 @@ def add_torus( edges, cx, cy, cz, r0, r1, step ):
                          points[index][1],
                          points[index][2],
                          
-                         points[index + 1][0],
-                         points[index + 1][1],
-                         points[index + 1][2],
+                         points[(index + 1) % (len(points))][0],
+                         points[(index + 1) % (len(points))][1],
+                         points[(index + 1) % (len(points))][2],
                          
-                         points[(index + num_steps) % (lat_stop * num_steps)][0],
-                         points[(index + num_steps) % (lat_stop * num_steps)][1],
-                         points[(index + num_steps) % (lat_stop * num_steps)][2] )
-            
+                         points[(index + num_steps) % (len(points))][0],
+                         points[(index + num_steps) % (len(points))][1],
+                         points[(index + num_steps) % (len(points))][2] )
+        add_polygon( edges,
 
+                     points[(index + 1) % (len(points))][0],
+                     points[(index + 1) % (len(points))][1],
+                     points[(index + 1) % (len(points))][2],
+                     
+                     points[(index + num_steps) % (len(points))][0],
+                     points[(index + num_steps) % (len(points))][1],
+                     points[(index + num_steps) % (len(points))][2],
+
+                     points[(index + num_steps + 1) % (len(points))][0],
+                     points[(index + num_steps + 1) % (len(points))][1],
+                     points[(index + num_steps + 1) % (len(points))][2] )
+        
             # add_edge(edges, points[index][0],
             #          points[index][1],
             #          points[index][2],
