@@ -1,0 +1,780 @@
+clear
+torus
+0 0 0 240 0
+ident
+rotate
+ x 70
+rotate
+ y 20
+move
+ 250 250 0
+apply
+save
+ anim/000.png
+clear
+torus
+0 0 0 236 4
+ident
+rotate
+ x 70
+rotate
+ y 20
+move
+ 250 250 0
+apply
+save
+ anim/001.png
+clear
+torus
+0 0 0 232 8
+ident
+rotate
+ x 70
+rotate
+ y 20
+move
+ 250 250 0
+apply
+save
+ anim/002.png
+clear
+torus
+0 0 0 228 12
+ident
+rotate
+ x 70
+rotate
+ y 20
+move
+ 250 250 0
+apply
+save
+ anim/003.png
+clear
+torus
+0 0 0 224 16
+ident
+rotate
+ x 70
+rotate
+ y 20
+move
+ 250 250 0
+apply
+save
+ anim/004.png
+clear
+torus
+0 0 0 220 20
+ident
+rotate
+ x 70
+rotate
+ y 20
+move
+ 250 250 0
+apply
+save
+ anim/005.png
+clear
+torus
+0 0 0 216 24
+ident
+rotate
+ x 70
+rotate
+ y 20
+move
+ 250 250 0
+apply
+save
+ anim/006.png
+clear
+torus
+0 0 0 212 28
+ident
+rotate
+ x 70
+rotate
+ y 20
+move
+ 250 250 0
+apply
+save
+ anim/007.png
+clear
+torus
+0 0 0 208 32
+ident
+rotate
+ x 70
+rotate
+ y 20
+move
+ 250 250 0
+apply
+save
+ anim/008.png
+clear
+torus
+0 0 0 204 36
+ident
+rotate
+ x 70
+rotate
+ y 20
+move
+ 250 250 0
+apply
+save
+ anim/009.png
+clear
+torus
+0 0 0 200 40
+ident
+rotate
+ x 70
+rotate
+ y 20
+move
+ 250 250 0
+apply
+save
+ anim/010.png
+clear
+torus
+0 0 0 196 44
+ident
+rotate
+ x 70
+rotate
+ y 20
+move
+ 250 250 0
+apply
+save
+ anim/011.png
+clear
+torus
+0 0 0 192 48
+ident
+rotate
+ x 70
+rotate
+ y 20
+move
+ 250 250 0
+apply
+save
+ anim/012.png
+clear
+torus
+0 0 0 188 52
+ident
+rotate
+ x 70
+rotate
+ y 20
+move
+ 250 250 0
+apply
+save
+ anim/013.png
+clear
+torus
+0 0 0 184 56
+ident
+rotate
+ x 70
+rotate
+ y 20
+move
+ 250 250 0
+apply
+save
+ anim/014.png
+clear
+torus
+0 0 0 180 60
+ident
+rotate
+ x 70
+rotate
+ y 20
+move
+ 250 250 0
+apply
+save
+ anim/015.png
+clear
+torus
+0 0 0 176 64
+ident
+rotate
+ x 70
+rotate
+ y 20
+move
+ 250 250 0
+apply
+save
+ anim/016.png
+clear
+torus
+0 0 0 172 68
+ident
+rotate
+ x 70
+rotate
+ y 20
+move
+ 250 250 0
+apply
+save
+ anim/017.png
+clear
+torus
+0 0 0 168 72
+ident
+rotate
+ x 70
+rotate
+ y 20
+move
+ 250 250 0
+apply
+save
+ anim/018.png
+clear
+torus
+0 0 0 164 76
+ident
+rotate
+ x 70
+rotate
+ y 20
+move
+ 250 250 0
+apply
+save
+ anim/019.png
+clear
+torus
+0 0 0 160 80
+ident
+rotate
+ x 70
+rotate
+ y 20
+move
+ 250 250 0
+apply
+save
+ anim/020.png
+clear
+torus
+0 0 0 156 84
+ident
+rotate
+ x 70
+rotate
+ y 20
+move
+ 250 250 0
+apply
+save
+ anim/021.png
+clear
+torus
+0 0 0 152 88
+ident
+rotate
+ x 70
+rotate
+ y 20
+move
+ 250 250 0
+apply
+save
+ anim/022.png
+clear
+torus
+0 0 0 148 92
+ident
+rotate
+ x 70
+rotate
+ y 20
+move
+ 250 250 0
+apply
+save
+ anim/023.png
+clear
+torus
+0 0 0 144 96
+ident
+rotate
+ x 70
+rotate
+ y 20
+move
+ 250 250 0
+apply
+save
+ anim/024.png
+clear
+torus
+0 0 0 140 100
+ident
+rotate
+ x 70
+rotate
+ y 20
+move
+ 250 250 0
+apply
+save
+ anim/025.png
+clear
+torus
+0 0 0 136 104
+ident
+rotate
+ x 70
+rotate
+ y 20
+move
+ 250 250 0
+apply
+save
+ anim/026.png
+clear
+torus
+0 0 0 132 108
+ident
+rotate
+ x 70
+rotate
+ y 20
+move
+ 250 250 0
+apply
+save
+ anim/027.png
+clear
+torus
+0 0 0 128 112
+ident
+rotate
+ x 70
+rotate
+ y 20
+move
+ 250 250 0
+apply
+save
+ anim/028.png
+clear
+torus
+0 0 0 124 116
+ident
+rotate
+ x 70
+rotate
+ y 20
+move
+ 250 250 0
+apply
+save
+ anim/029.png
+clear
+torus
+0 0 0 120 120
+ident
+rotate
+ x 70
+rotate
+ y 20
+move
+ 250 250 0
+apply
+save
+ anim/030.png
+clear
+torus
+0 0 0 116 124
+ident
+rotate
+ x 70
+rotate
+ y 20
+move
+ 250 250 0
+apply
+save
+ anim/031.png
+clear
+torus
+0 0 0 112 128
+ident
+rotate
+ x 70
+rotate
+ y 20
+move
+ 250 250 0
+apply
+save
+ anim/032.png
+clear
+torus
+0 0 0 108 132
+ident
+rotate
+ x 70
+rotate
+ y 20
+move
+ 250 250 0
+apply
+save
+ anim/033.png
+clear
+torus
+0 0 0 104 136
+ident
+rotate
+ x 70
+rotate
+ y 20
+move
+ 250 250 0
+apply
+save
+ anim/034.png
+clear
+torus
+0 0 0 100 140
+ident
+rotate
+ x 70
+rotate
+ y 20
+move
+ 250 250 0
+apply
+save
+ anim/035.png
+clear
+torus
+0 0 0 96 144
+ident
+rotate
+ x 70
+rotate
+ y 20
+move
+ 250 250 0
+apply
+save
+ anim/036.png
+clear
+torus
+0 0 0 92 148
+ident
+rotate
+ x 70
+rotate
+ y 20
+move
+ 250 250 0
+apply
+save
+ anim/037.png
+clear
+torus
+0 0 0 88 152
+ident
+rotate
+ x 70
+rotate
+ y 20
+move
+ 250 250 0
+apply
+save
+ anim/038.png
+clear
+torus
+0 0 0 84 156
+ident
+rotate
+ x 70
+rotate
+ y 20
+move
+ 250 250 0
+apply
+save
+ anim/039.png
+clear
+torus
+0 0 0 80 160
+ident
+rotate
+ x 70
+rotate
+ y 20
+move
+ 250 250 0
+apply
+save
+ anim/040.png
+clear
+torus
+0 0 0 76 164
+ident
+rotate
+ x 70
+rotate
+ y 20
+move
+ 250 250 0
+apply
+save
+ anim/041.png
+clear
+torus
+0 0 0 72 168
+ident
+rotate
+ x 70
+rotate
+ y 20
+move
+ 250 250 0
+apply
+save
+ anim/042.png
+clear
+torus
+0 0 0 68 172
+ident
+rotate
+ x 70
+rotate
+ y 20
+move
+ 250 250 0
+apply
+save
+ anim/043.png
+clear
+torus
+0 0 0 64 176
+ident
+rotate
+ x 70
+rotate
+ y 20
+move
+ 250 250 0
+apply
+save
+ anim/044.png
+clear
+torus
+0 0 0 60 180
+ident
+rotate
+ x 70
+rotate
+ y 20
+move
+ 250 250 0
+apply
+save
+ anim/045.png
+clear
+torus
+0 0 0 56 184
+ident
+rotate
+ x 70
+rotate
+ y 20
+move
+ 250 250 0
+apply
+save
+ anim/046.png
+clear
+torus
+0 0 0 52 188
+ident
+rotate
+ x 70
+rotate
+ y 20
+move
+ 250 250 0
+apply
+save
+ anim/047.png
+clear
+torus
+0 0 0 48 192
+ident
+rotate
+ x 70
+rotate
+ y 20
+move
+ 250 250 0
+apply
+save
+ anim/048.png
+clear
+torus
+0 0 0 44 196
+ident
+rotate
+ x 70
+rotate
+ y 20
+move
+ 250 250 0
+apply
+save
+ anim/049.png
+clear
+torus
+0 0 0 40 200
+ident
+rotate
+ x 70
+rotate
+ y 20
+move
+ 250 250 0
+apply
+save
+ anim/050.png
+clear
+torus
+0 0 0 36 204
+ident
+rotate
+ x 70
+rotate
+ y 20
+move
+ 250 250 0
+apply
+save
+ anim/051.png
+clear
+torus
+0 0 0 32 208
+ident
+rotate
+ x 70
+rotate
+ y 20
+move
+ 250 250 0
+apply
+save
+ anim/052.png
+clear
+torus
+0 0 0 28 212
+ident
+rotate
+ x 70
+rotate
+ y 20
+move
+ 250 250 0
+apply
+save
+ anim/053.png
+clear
+torus
+0 0 0 24 216
+ident
+rotate
+ x 70
+rotate
+ y 20
+move
+ 250 250 0
+apply
+save
+ anim/054.png
+clear
+torus
+0 0 0 20 220
+ident
+rotate
+ x 70
+rotate
+ y 20
+move
+ 250 250 0
+apply
+save
+ anim/055.png
+clear
+torus
+0 0 0 16 224
+ident
+rotate
+ x 70
+rotate
+ y 20
+move
+ 250 250 0
+apply
+save
+ anim/056.png
+clear
+torus
+0 0 0 12 228
+ident
+rotate
+ x 70
+rotate
+ y 20
+move
+ 250 250 0
+apply
+save
+ anim/057.png
+clear
+torus
+0 0 0 8 232
+ident
+rotate
+ x 70
+rotate
+ y 20
+move
+ 250 250 0
+apply
+save
+ anim/058.png
+clear
+torus
+0 0 0 4 236
+ident
+rotate
+ x 70
+rotate
+ y 20
+move
+ 250 250 0
+apply
+save
+ anim/059.png
