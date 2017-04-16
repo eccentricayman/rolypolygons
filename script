@@ -1,6 +1,6 @@
 clear
 sphere
-0 0 0 240 0
+0 0 0 240
 torus
 0 0 0 240 0
 ident
@@ -17,7 +17,7 @@ save
  anim/000.png
 clear
 sphere
-0 0 0 236 4
+0 0 0 236
 torus
 0 0 0 236 4
 ident
@@ -34,7 +34,7 @@ save
  anim/001.png
 clear
 sphere
-0 0 0 232 8
+0 0 0 232
 torus
 0 0 0 232 8
 ident
@@ -51,7 +51,7 @@ save
  anim/002.png
 clear
 sphere
-0 0 0 228 12
+0 0 0 228
 torus
 0 0 0 228 12
 ident
@@ -68,7 +68,7 @@ save
  anim/003.png
 clear
 sphere
-0 0 0 224 16
+0 0 0 224
 torus
 0 0 0 224 16
 ident
@@ -85,7 +85,7 @@ save
  anim/004.png
 clear
 sphere
-0 0 0 220 20
+0 0 0 220
 torus
 0 0 0 220 20
 ident
@@ -102,7 +102,7 @@ save
  anim/005.png
 clear
 sphere
-0 0 0 216 24
+0 0 0 216
 torus
 0 0 0 216 24
 ident
@@ -119,7 +119,7 @@ save
  anim/006.png
 clear
 sphere
-0 0 0 212 28
+0 0 0 212
 torus
 0 0 0 212 28
 ident
@@ -136,7 +136,7 @@ save
  anim/007.png
 clear
 sphere
-0 0 0 208 32
+0 0 0 208
 torus
 0 0 0 208 32
 ident
@@ -153,7 +153,7 @@ save
  anim/008.png
 clear
 sphere
-0 0 0 204 36
+0 0 0 204
 torus
 0 0 0 204 36
 ident
@@ -170,7 +170,7 @@ save
  anim/009.png
 clear
 sphere
-0 0 0 200 40
+0 0 0 200
 torus
 0 0 0 200 40
 ident
@@ -187,7 +187,7 @@ save
  anim/010.png
 clear
 sphere
-0 0 0 196 44
+0 0 0 196
 torus
 0 0 0 196 44
 ident
@@ -204,7 +204,7 @@ save
  anim/011.png
 clear
 sphere
-0 0 0 192 48
+0 0 0 192
 torus
 0 0 0 192 48
 ident
@@ -221,7 +221,7 @@ save
  anim/012.png
 clear
 sphere
-0 0 0 188 52
+0 0 0 188
 torus
 0 0 0 188 52
 ident
@@ -238,7 +238,7 @@ save
  anim/013.png
 clear
 sphere
-0 0 0 184 56
+0 0 0 184
 torus
 0 0 0 184 56
 ident
@@ -255,7 +255,7 @@ save
  anim/014.png
 clear
 sphere
-0 0 0 180 60
+0 0 0 180
 torus
 0 0 0 180 60
 ident
@@ -272,7 +272,7 @@ save
  anim/015.png
 clear
 sphere
-0 0 0 176 64
+0 0 0 176
 torus
 0 0 0 176 64
 ident
@@ -289,7 +289,7 @@ save
  anim/016.png
 clear
 sphere
-0 0 0 172 68
+0 0 0 172
 torus
 0 0 0 172 68
 ident
@@ -306,7 +306,7 @@ save
  anim/017.png
 clear
 sphere
-0 0 0 168 72
+0 0 0 168
 torus
 0 0 0 168 72
 ident
@@ -323,7 +323,7 @@ save
  anim/018.png
 clear
 sphere
-0 0 0 164 76
+0 0 0 164
 torus
 0 0 0 164 76
 ident
@@ -340,7 +340,7 @@ save
  anim/019.png
 clear
 sphere
-0 0 0 160 80
+0 0 0 160
 torus
 0 0 0 160 80
 ident
@@ -357,7 +357,7 @@ save
  anim/020.png
 clear
 sphere
-0 0 0 156 84
+0 0 0 156
 torus
 0 0 0 156 84
 ident
@@ -374,7 +374,7 @@ save
  anim/021.png
 clear
 sphere
-0 0 0 152 88
+0 0 0 152
 torus
 0 0 0 152 88
 ident
@@ -391,7 +391,7 @@ save
  anim/022.png
 clear
 sphere
-0 0 0 148 92
+0 0 0 148
 torus
 0 0 0 148 92
 ident
@@ -408,7 +408,7 @@ save
  anim/023.png
 clear
 sphere
-0 0 0 144 96
+0 0 0 144
 torus
 0 0 0 144 96
 ident
@@ -425,7 +425,7 @@ save
  anim/024.png
 clear
 sphere
-0 0 0 140 100
+0 0 0 140
 torus
 0 0 0 140 100
 ident
@@ -442,7 +442,7 @@ save
  anim/025.png
 clear
 sphere
-0 0 0 136 104
+0 0 0 136
 torus
 0 0 0 136 104
 ident
@@ -459,7 +459,7 @@ save
  anim/026.png
 clear
 sphere
-0 0 0 132 108
+0 0 0 132
 torus
 0 0 0 132 108
 ident
@@ -476,7 +476,7 @@ save
  anim/027.png
 clear
 sphere
-0 0 0 128 112
+0 0 0 128
 torus
 0 0 0 128 112
 ident
@@ -493,7 +493,7 @@ save
  anim/028.png
 clear
 sphere
-0 0 0 124 116
+0 0 0 124
 torus
 0 0 0 124 116
 ident
@@ -510,7 +510,7 @@ save
  anim/029.png
 clear
 sphere
-0 0 0 120 120
+0 0 0 120
 torus
 0 0 0 120 120
 ident
@@ -527,7 +527,7 @@ save
  anim/030.png
 clear
 sphere
-0 0 0 116 124
+0 0 0 116
 torus
 0 0 0 116 124
 ident
@@ -544,7 +544,7 @@ save
  anim/031.png
 clear
 sphere
-0 0 0 112 128
+0 0 0 112
 torus
 0 0 0 112 128
 ident
@@ -561,7 +561,7 @@ save
  anim/032.png
 clear
 sphere
-0 0 0 108 132
+0 0 0 108
 torus
 0 0 0 108 132
 ident
@@ -578,7 +578,7 @@ save
  anim/033.png
 clear
 sphere
-0 0 0 104 136
+0 0 0 104
 torus
 0 0 0 104 136
 ident
@@ -595,7 +595,7 @@ save
  anim/034.png
 clear
 sphere
-0 0 0 100 140
+0 0 0 100
 torus
 0 0 0 100 140
 ident
@@ -612,7 +612,7 @@ save
  anim/035.png
 clear
 sphere
-0 0 0 96 144
+0 0 0 96
 torus
 0 0 0 96 144
 ident
@@ -629,7 +629,7 @@ save
  anim/036.png
 clear
 sphere
-0 0 0 92 148
+0 0 0 92
 torus
 0 0 0 92 148
 ident
@@ -646,7 +646,7 @@ save
  anim/037.png
 clear
 sphere
-0 0 0 88 152
+0 0 0 88
 torus
 0 0 0 88 152
 ident
@@ -663,7 +663,7 @@ save
  anim/038.png
 clear
 sphere
-0 0 0 84 156
+0 0 0 84
 torus
 0 0 0 84 156
 ident
@@ -680,7 +680,7 @@ save
  anim/039.png
 clear
 sphere
-0 0 0 80 160
+0 0 0 80
 torus
 0 0 0 80 160
 ident
@@ -697,7 +697,7 @@ save
  anim/040.png
 clear
 sphere
-0 0 0 76 164
+0 0 0 76
 torus
 0 0 0 76 164
 ident
@@ -714,7 +714,7 @@ save
  anim/041.png
 clear
 sphere
-0 0 0 72 168
+0 0 0 72
 torus
 0 0 0 72 168
 ident
@@ -731,7 +731,7 @@ save
  anim/042.png
 clear
 sphere
-0 0 0 68 172
+0 0 0 68
 torus
 0 0 0 68 172
 ident
@@ -748,7 +748,7 @@ save
  anim/043.png
 clear
 sphere
-0 0 0 64 176
+0 0 0 64
 torus
 0 0 0 64 176
 ident
@@ -765,7 +765,7 @@ save
  anim/044.png
 clear
 sphere
-0 0 0 60 180
+0 0 0 60
 torus
 0 0 0 60 180
 ident
@@ -782,7 +782,7 @@ save
  anim/045.png
 clear
 sphere
-0 0 0 56 184
+0 0 0 56
 torus
 0 0 0 56 184
 ident
@@ -799,7 +799,7 @@ save
  anim/046.png
 clear
 sphere
-0 0 0 52 188
+0 0 0 52
 torus
 0 0 0 52 188
 ident
@@ -816,7 +816,7 @@ save
  anim/047.png
 clear
 sphere
-0 0 0 48 192
+0 0 0 48
 torus
 0 0 0 48 192
 ident
@@ -833,7 +833,7 @@ save
  anim/048.png
 clear
 sphere
-0 0 0 44 196
+0 0 0 44
 torus
 0 0 0 44 196
 ident
@@ -850,7 +850,7 @@ save
  anim/049.png
 clear
 sphere
-0 0 0 40 200
+0 0 0 40
 torus
 0 0 0 40 200
 ident
@@ -867,7 +867,7 @@ save
  anim/050.png
 clear
 sphere
-0 0 0 36 204
+0 0 0 36
 torus
 0 0 0 36 204
 ident
@@ -884,7 +884,7 @@ save
  anim/051.png
 clear
 sphere
-0 0 0 32 208
+0 0 0 32
 torus
 0 0 0 32 208
 ident
@@ -901,7 +901,7 @@ save
  anim/052.png
 clear
 sphere
-0 0 0 28 212
+0 0 0 28
 torus
 0 0 0 28 212
 ident
@@ -918,7 +918,7 @@ save
  anim/053.png
 clear
 sphere
-0 0 0 24 216
+0 0 0 24
 torus
 0 0 0 24 216
 ident
@@ -935,7 +935,7 @@ save
  anim/054.png
 clear
 sphere
-0 0 0 20 220
+0 0 0 20
 torus
 0 0 0 20 220
 ident
@@ -952,7 +952,7 @@ save
  anim/055.png
 clear
 sphere
-0 0 0 16 224
+0 0 0 16
 torus
 0 0 0 16 224
 ident
@@ -969,7 +969,7 @@ save
  anim/056.png
 clear
 sphere
-0 0 0 12 228
+0 0 0 12
 torus
 0 0 0 12 228
 ident
@@ -986,7 +986,7 @@ save
  anim/057.png
 clear
 sphere
-0 0 0 8 232
+0 0 0 8
 torus
 0 0 0 8 232
 ident
@@ -1003,7 +1003,7 @@ save
  anim/058.png
 clear
 sphere
-0 0 0 4 236
+0 0 0 4
 torus
 0 0 0 4 236
 ident

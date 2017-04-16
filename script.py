@@ -6,7 +6,7 @@ with open("script", "w") as fd:
     end = ""
     for i in range(0, 60):
         end += "clear\n"
-        end += "sphere\n0 0 0 %s %s\n"%(240 - (i * 4), i * 4)
+        end += "sphere\n0 0 0 %s\n"%(240 - (i * 4))
         end += "torus\n0 0 0 %s %s\n"%(240 - (i * 4), i * 4)
         end += "ident\n"
         end += "rotate\n y %f\n"%(i*5)
